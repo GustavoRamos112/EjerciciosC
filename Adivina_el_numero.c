@@ -1,5 +1,9 @@
 //Este programa utiliza un while para que puedas jugar con el a adivinar el numero
 //Este sirve para entender el ciclo while y un poco el como funcionan los if
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <math.h>
 
 int main(void)
 {
