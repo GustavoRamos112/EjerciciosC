@@ -11,7 +11,7 @@ Ejercicios de programación de un físico en C
 git clone https://github.com/GustavoRamos112/EjerciciosC.git
 ```
 
-##Renombrar programas desde la terminal
+## Renombrar programas desde la terminal
 Desde Linux:
 ```
 mv nombre.c nuevo_nombre.c
